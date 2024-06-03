@@ -1,0 +1,19 @@
+[
+    {
+        "id": "NLPCC2024_Task1_1",
+        "video_id": "EybiLglTJOg",
+        "question": "如何站着运动手臂来缓解肩关节受限？",
+        "start_second": 64.54,
+        "end_second": 76.53999999999999,
+        "language_type": "Chinese"
+    },
+    {
+        "id": "NLPCC2024_Task1_2",
+        "video_id": "Az7SJk4RNaA",
+        "question": "How to find the corresponding acupoints on the hand to relieve stiff neck?",
+        "start_second": 13.24,
+        "end_second": 72.53999999999999,
+        "language_type": "English"
+    },
+
+]
